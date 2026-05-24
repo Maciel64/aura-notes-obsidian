@@ -46,3 +46,15 @@ A Aura é uma plataforma completa — você pode usar só pra organizar horário
 Tudo no seu ritmo, sem complicação.
 
 Quer que eu te mostre rapidinho?
+
+________________________________________________________________________
+
+Oi! Tudo bem? 😊
+
+Vi seu trabalho e achei que faria sentido te apresentar uma solução que vai muito além de uma agenda.
+
+A Aura é uma plataforma completa para facilitar sua rotina — você pode começar organizando seus horários e, quando quiser, evoluir para uma gestão mais completa com clientes, atendimentos, financeiro e muito mais 🚀
+
+Tudo de forma simples, prática e no seu ritmo.
+
+Se fizer sentido pra você, posso gerar um acesso de demonstração rapidinho para conhecer a plataforma por dentro. O que me diz? 😉
