@@ -58,3 +58,7 @@ A Aura é uma plataforma completa para facilitar sua rotina — você pode come�
 Tudo de forma simples, prática e no seu ritmo.
 
 Se fizer sentido pra você, posso gerar um acesso de demonstração rapidinho para conhecer a plataforma por dentro. O que me diz? 😉
+
+___
+
+Oi! Tudo bem? ![😊](https://static.cdninstagram.com/images/emoji.php/v9/t7f/1/16/1f60a.png) Vi seu trabalho e achei que a Aura pode fazer sentido para vocẽ. Somos uma plataforma de agendamentos e gestão que vai desde uma agenda simples até o seu total controle financeiro. Você pode criar uma conta de testes gratuita em [https://aurasistema.com.br](https://aurasistema.com.br/) Posso te mostrar rapidinho como funciona?
