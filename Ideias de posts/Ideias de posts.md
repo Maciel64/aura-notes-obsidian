@@ -25,7 +25,7 @@ Erro 3: Comprar produto demais ou de menos. (Solução Aura: Controle de estoque
 
 *Ideia 5*
 
-Campanha de Convite Exclusivo: Crie uma contagem regressiva para o lançamento oficial. "Estamos abrindo as portas da Aura para 20 estúdios exclusivos. Reserve seu lugar para testar gratuitamente." Use a logo em dourado e rosé sobre o fundo escuro para criar um ar premium.
+Campanha de Convite Exclusivo: Crie uma contagem regressiva para o lançamento oficial. "Estamos abrindo as portas da Aura para 20 estúdios exclusivos. Reserve seu lugar para testar gratuitamente." Use a logo em dourado e rosê sobre o fundo escuro para criar um ar premium.
 Oferta de Pré-Lançamento: "Estúdios pioneiros ganham 1 mês de Aura grátis e assessoria de implantação personalizada.
 Não precisa ser um mês óbvio, mas alguns dias grátis. Enfim.
 
@@ -36,3 +36,4 @@ COMECE GRATIS. EVOLUA NO SEU RITMO
 Transforme a forma como você administra a burocracia no seu negocio.
 Teste grátis por 14 dias e veja na pratica como o aura simplifica sua rotina. Sem complicações, sem 
 surpresas.
+
