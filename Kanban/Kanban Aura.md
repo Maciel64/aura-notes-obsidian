@@ -22,7 +22,6 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Criar calendário de postagens
 
 
 ## Impedimento
@@ -31,6 +30,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]
 
 
