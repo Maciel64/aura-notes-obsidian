@@ -11,22 +11,14 @@
             "id": "4bcf9f93df10ae47",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Kanban Aura.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Kanban/Notas/Criar postagem para 29 06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Aura"
+              "icon": "lucide-file",
+              "title": "Criar postagem para 29 06"
             }
           }
         ]
@@ -206,9 +198,12 @@
   },
   "active": "4bcf9f93df10ae47",
   "lastOpenFiles": [
-    "Kanban/Funcionalidade de acesso por link mágico lucas.md",
     "Kanban/Kanban Aura.md",
-    "Kanban/Criar um TikTok para a Aura.md",
+    "Kanban/Notas/Criar postagem para 29 06.md",
+    "Chamada para atenção.png",
+    "Kanban/Notas/Criar um TikTok para a Aura.md",
+    "Kanban/Notas",
+    "Kanban/Funcionalidade de acesso por link mágico lucas.md",
     "Organização do instagran.md",
     "Kanban",
     "Posts/Aura quem somos nós.png",
@@ -237,8 +232,6 @@
     "Posts/Junho/Quanto custa a desorganização.md",
     "Posts/Junho/Pronto para organizar seu negócio.md",
     "Posts/Junho/Cliente esqueceu o horário.md",
-    "Posts/Junho/Antes e Depois.md",
-    "Posts/Junho/Autoridade.md",
     "Posts/Junho",
     "Posts",
     "Excalidraw",

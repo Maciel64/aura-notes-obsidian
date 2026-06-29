@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [[Criar um TikTok para a Aura]]
 - [ ] Atualizar Logo e Tema do Site
 - [ ] Criar destaques no Instagram
-- [ ] Criar postagem para 29/06
 - [ ] Criar postagem para 01/07
 - [ ] Criar postagem para 03/07
 - [ ] Melhorar SEO do Site
@@ -32,6 +31,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] [[Criar postagem para 29 06]]
 
 
 
