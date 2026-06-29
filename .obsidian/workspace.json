@@ -35,9 +35,31 @@
               "icon": "lucide-file",
               "title": "Organização do instagran"
             }
+          },
+          {
+            "id": "eb343710e626928c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Kanban Aura.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Aura"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,17 +230,28 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce65c571d9889e72",
+  "active": "8ad61aa168115ce9",
   "lastOpenFiles": [
+    "Kanban/Kanban Aura.md",
+    "conflict-files-obsidian-git.md",
+    "Novo Documento de Texto.txt",
+    "Kanban/Notas/Criar postagem para 29 06.md",
+    "Posts/Calendário de Postagens.md",
+    "Organização do instagran.md",
+    "Posts/Aura quem somos nós.png",
+    "Kanban/Notas/Criar um TikTok para a Aura.md",
+    "Kanban/Notas",
+    "Kanban",
+    "Chamada para atenção.png",
+    "A Identidade Visual do Perfil.md",
     "Sem título.md",
     "Sem título.canvas",
     "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
-    "Organização do instagran.md",
     "Ideias de posts/Ideias de posts.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20260626175220.png",
     "Sem título",
     "Aura quem somos nós.png",
@@ -243,13 +276,6 @@
     "Pasta de teste",
     "2026-06-20.md",
     "Excalidraw",
-    "Posts/Junho/Bastidores.md",
-    "Posts/Junho/Cliente esqueceu o horário.md",
-    "Posts/Junho/Quanto custa a desorganização.md",
-    "Posts/Junho/Pronto para organizar seu negócio.md",
-    "Posts/Junho/Conversão.md",
-    "Posts/Junho",
-    "Posts",
-    "Leads"
+    "Posts/Junho"
   ]
 }
