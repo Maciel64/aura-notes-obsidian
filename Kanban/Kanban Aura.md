@@ -8,19 +8,19 @@ kanban-plugin: board
 
 - [ ] Criar destaques no Instagram
 - [ ] Melhorar SEO do Site
-- [ ] Atualizar Tema do Site
 
 
 ## Next Up
 
+- [ ] Criar postagem para 03/07 #maciel
+- [ ] Funcionalidade de acesso por link mágico #maciel
 
 
 ## Fazendo
 
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
-- [ ] Funcionalidade de acesso por link mágico #maciel
-- [ ] Criar postagem para 03/07 #maciel
-- [ ] Criar postagem para 06/07 - Foto de Lucas no Feed #abigail
+- [ ] Atualizar Tema do Site #maciel
+- [ ] [[Criar postagem para 06 07 - Abigail]]
 
 
 ## Impedimento
