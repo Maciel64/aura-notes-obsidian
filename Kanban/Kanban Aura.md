@@ -6,12 +6,10 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Criar um TikTok para a Aura]]
-- [ ] Atualizar Logo e Tema do Site
 - [ ] Criar destaques no Instagram
-- [ ] Criar postagem para 01/07
 - [ ] Criar postagem para 03/07
 - [ ] Melhorar SEO do Site
+- [ ] Atualizar Tema do Site
 
 
 ## Next Up
@@ -22,6 +20,7 @@ kanban-plugin: board
 
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
 - [ ] Funcionalidade de acesso por link mágico #maciel
+- [ ] Criar postagem para 01/07 #maciel
 
 
 ## Impedimento
@@ -30,8 +29,10 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Atualizar Logo do Site
 - [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]
+- [ ] [[Criar um TikTok para a Aura]]
 
 
 
