@@ -16,12 +16,12 @@ kanban-plugin: board
 
 ## Next Up
 
-- [ ] Estratégia de atração para 20 studios exclusivos #maciel
-- [ ] Funcionalidade de acesso por link mágico #lucas
 
 
 ## Fazendo
 
+- [ ] Estratégia de atração para 20 studios exclusivos #lucas
+- [ ] Funcionalidade de acesso por link mágico #maciel
 
 
 ## Impedimento
