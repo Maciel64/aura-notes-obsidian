@@ -32,7 +32,7 @@ kanban-plugin: board
 - [ ] Atualizar Logo do Site
 - [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]
-- [ ] [[Criar um TikTok para a Aura]]
+- [ ] [[Criar um TikTok para a Aura]] #abigail
 
 
 
