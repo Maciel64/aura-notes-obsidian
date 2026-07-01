@@ -8,11 +8,13 @@ kanban-plugin: board
 
 - [ ] Criar destaques no Instagram
 - [ ] Melhorar SEO do Site
+- [ ] Logo do cliente não fica definida no favicon #melhoria
+- [ ] Landing page não está bloqueando em caso de não pagamento #bug
 
 
 ## Next Up
 
-- [ ] Criar postagem para 03/07 #maciel
+- [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Funcionalidade de acesso por link mágico #maciel
 
 
