@@ -6,24 +6,23 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Criar um TikTok para a Aura]]
-- [ ] Atualizar Logo e Tema do Site
 - [ ] Criar destaques no Instagram
-- [ ] Criar postagem para 29/06
-- [ ] Criar postagem para 01/07
-- [ ] Criar postagem para 03/07
 - [ ] Melhorar SEO do Site
+- [ ] Logo do cliente não fica definida no favicon #melhoria
+- [ ] Landing page não está bloqueando em caso de não pagamento #bug
 
 
 ## Next Up
 
-- [ ] Estratégia de atração para 20 studios exclusivos #maciel
-- [ ] Funcionalidade de acesso por link mágico #lucas
+- [ ] [[Criar postagem para 03 07 maciel]]
+- [ ] Funcionalidade de acesso por link mágico #maciel
 
 
 ## Fazendo
 
-- [ ] Criar calendário de postagens
+- [ ] Estratégia de atração para 20 studios exclusivos #lucas
+- [ ] Atualizar Tema do Site #maciel
+- [ ] [[Criar postagem para 06 07 - Abigail]]
 
 
 ## Impedimento
@@ -32,6 +31,10 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Atualizar Logo do Site
+- [ ] Criar calendário de postagens
+- [ ] [[Criar postagem para 29 06]]
+- [ ] [[Criar um TikTok para a Aura]] #abigail
 
 
 

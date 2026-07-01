@@ -4,81 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1d7dd6ac6b2da7",
+        "id": "c077fccd51eeacab",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f24d7123803090",
+            "id": "a00ad730f2c1c092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Mensagens de Prospecção.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Kanban Aura.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mensagens de Prospecção"
-            }
-          },
-          {
-            "id": "5db4197ff73fe91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideias de posts/Ideias de posts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideias de posts"
-            }
-          },
-          {
-            "id": "d8ccc2c5e4d5d598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organização do instagran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Organização do instagran"
-            }
-          },
-          {
-            "id": "36bc0ebba55d4ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideias de posts/Ideias de posts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideias de posts"
-            }
-          },
-          {
-            "id": "caf512051131f24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 sinais de que sua gestão está desorganizada"
+              "icon": "lucide-trello",
+              "title": "Kanban Aura"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#maciel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,41 +204,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ad61aa168115ce9",
+  "active": "a00ad730f2c1c092",
   "lastOpenFiles": [
+    "Criar postagem para 03 07 maciel.md",
+    "Kanban/Kanban Aura.md",
     "Posts/Calendário de Postagens.md",
-    "Posts/Junho/Quanto dinheiro você perdeu hoje.md",
-    "Posts/Junho/Quanto custa a desorganização.md",
-    "Posts/Junho/Pronto para organizar seu negócio.md",
-    "Posts/Junho/Funcionalidade.md",
-    "Posts/Junho/Cliente esqueceu o horário.md",
-    "Posts/Junho/Bastidores.md",
-    "Posts/Junho/Autoridade.md",
-    "Posts/Junho/Antes e Depois.md",
-    "Post para instagram feliz aniversário elegante em preto e dourado.png",
-    "Pasted image 20260626175220.png",
-    "Organização do instagran.md",
+    "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
+    "Pasted image 20260701191200.png",
+    "Kanban/Notas/Criar um TikTok para a Aura.md",
     "conflict-files-obsidian-git.md",
     "A Identidade Visual do Perfil.md",
-    "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
-    "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
-    "Posts/Junho/Conversão.md",
-    "Posts/Junho/Dica rápida.md",
-    "Posts/Junho/O erro que trava o crescimento de pequenos negócios.md",
+    "Estratégia de atração para 20 studios exclusivos maciel.md",
+    "Kanban/Notas/Criar postagem para 29 06.md",
+    "Chamada para atenção.png",
+    "Kanban/Notas",
+    "Kanban/Funcionalidade de acesso por link mágico lucas.md",
+    "Organização do instagran.md",
+    "Kanban",
     "Posts/Aura quem somos nós.png",
+    "Post para instagram feliz aniversário elegante em preto e dourado.png",
+    "Pasted image 20260626175220.png",
+    "A fazeres.md",
+    "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
+    "Leads/Pessoas que responderam.md",
     "Ideias de posts/Rascunhos.md",
     "Ideias de posts/Ideias executadas.md",
     "Ideias de posts/Ideias de posts.md",
-    "Kanban/Kanban Aura.md",
-    "Kanban/Criar um TikTok para a Aura.md",
-    "Negócios/TAM, SAM, SOM.md",
-    "Kanban",
-    "Ideisas postadas",
-    "Sem título.md",
     "Ideias de posts",
-    "Posts/Junho/Quanto dinheiro você perdeu hoje?.md",
+    "Leads/Pessoas que não responderam.md",
+    "Prospecção/Profissionais.md",
+    "Prospecção/Clínicas.md",
+    "Prospecção",
+    "Posts/Junho/16.06.2026_Landing Page.md",
+    "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
+    "Negócios/TAM, SAM, SOM.md",
+    "Negócios",
+    "Posts/Junho/Dica rápida.md",
+    "Posts/Junho/Conversão.md",
+    "Posts/Junho/Quanto dinheiro você perdeu hoje.md",
     "Posts/Junho",
-    "Aura quem somos nós.png",
     "Posts",
     "Excalidraw",
     "Leads"
