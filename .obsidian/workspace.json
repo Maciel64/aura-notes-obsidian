@@ -40,22 +40,14 @@
             "id": "eb343710e626928c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Kanban Aura.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Posts/Calendário de Postagens.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Aura"
+              "icon": "lucide-file",
+              "title": "Calendário de Postagens"
             }
           }
         ],
@@ -91,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "29",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,12 +226,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ad61aa168115ce9",
+  "active": "eb343710e626928c",
   "lastOpenFiles": [
+    "Kanban/Notas/Criar postagem para 29 06.md",
     "Kanban/Kanban Aura.md",
     "conflict-files-obsidian-git.md",
     "Novo Documento de Texto.txt",
-    "Kanban/Notas/Criar postagem para 29 06.md",
     "Posts/Calendário de Postagens.md",
     "Organização do instagran.md",
     "Posts/Aura quem somos nós.png",
