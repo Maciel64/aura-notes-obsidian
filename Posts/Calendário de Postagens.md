@@ -60,9 +60,11 @@ Responda dúvidas reais:
 - Vale a pena cobrar sinal?
 - Como evitar faltas?
 
-| Semana | Segunda                                           | Quarta                                 | Sexta                                                |
-| ------ | ------------------------------------------------- | -------------------------------------- | ---------------------------------------------------- |
-| 1      | 5 sinais de que sua agenda precisa de organização | Tour pela Aura                         | Você sabe quanto faturou este mês?                   |
-| 2      | Como reduzir noshow de clientes                   | Funcionalidade: confirmação automática | Planilha x Plataforma                                |
-| 3      | Os maiores erros na gestão de uma clínica         | Controle de caixa na Aura              | História de um profissional que ganhou produtividade |
-| 4      | Como organizar uma agenda lotada                  | Funcionalidade: relatórios             | Teste gratuito da Aura                               |
+| Semana | Segunda                                           | Quarta                          | Sexta                                                |
+| ------ | ------------------------------------------------- | ------------------------------- | ---------------------------------------------------- |
+| 1      | 5 sinais de que sua agenda precisa de organização | Tour pela Aura                  | Você sabe quanto faturou este mês?                   |
+| 2      | Equipe da Aura                                    | Como reduzir noshow de clientes | Planilha x Plataforma                                |
+| 3      | Os maiores erros na gestão de uma clínica         | Controle de caixa na Aura       | História de um profissional que ganhou produtividade |
+| 4      | Como organizar uma agenda lotada                  | Funcionalidade: relatórios      | Teste gratuito da Aura<br>                           |
+| 5      | Funcionalidade: confirmação automática            |                                 |                                                      |
+
