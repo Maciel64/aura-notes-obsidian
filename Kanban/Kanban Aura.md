@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## Next Up
 
-- [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Funcionalidade de acesso por link mágico #maciel
 
 
@@ -32,6 +31,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
 - [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]

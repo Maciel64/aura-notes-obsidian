@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c077fccd51eeacab",
+        "id": "755d82f9e80bc744",
         "type": "tabs",
         "children": [
           {
-            "id": "a00ad730f2c1c092",
+            "id": "08b43594dffcb659",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Kanban Aura.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Criar postagem para 03 07 maciel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Aura"
+              "icon": "lucide-file",
+              "title": "Criar postagem para 03 07 maciel"
             }
           }
         ]
@@ -204,26 +196,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a00ad730f2c1c092",
+  "active": "08b43594dffcb659",
   "lastOpenFiles": [
-    "Criar postagem para 03 07 maciel.md",
+    "Chamada para atenção(4).png",
     "Kanban/Kanban Aura.md",
-    "Posts/Calendário de Postagens.md",
     "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
-    "Pasted image 20260701191200.png",
+    "Organização do instagran.md",
+    "Pasted image 20260626175220.png",
+    "Criar postagem para 03 07 maciel.md",
+    "Kanban/Notas/Criar postagem para 29 06.md",
     "Kanban/Notas/Criar um TikTok para a Aura.md",
     "conflict-files-obsidian-git.md",
+    "Posts/Calendário de Postagens.md",
+    "Pasted image 20260701191200.png",
     "A Identidade Visual do Perfil.md",
     "Estratégia de atração para 20 studios exclusivos maciel.md",
-    "Kanban/Notas/Criar postagem para 29 06.md",
     "Chamada para atenção.png",
     "Kanban/Notas",
     "Kanban/Funcionalidade de acesso por link mágico lucas.md",
-    "Organização do instagran.md",
     "Kanban",
     "Posts/Aura quem somos nós.png",
     "Post para instagram feliz aniversário elegante em preto e dourado.png",
-    "Pasted image 20260626175220.png",
     "A fazeres.md",
     "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
     "Leads/Pessoas que responderam.md",
@@ -241,7 +234,6 @@
     "Negócios",
     "Posts/Junho/Dica rápida.md",
     "Posts/Junho/Conversão.md",
-    "Posts/Junho/Quanto dinheiro você perdeu hoje.md",
     "Posts/Junho",
     "Posts",
     "Excalidraw",
