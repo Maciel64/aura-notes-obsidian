@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Melhorar SEO do Site
 - [ ] Logo do cliente não fica definida no favicon #melhoria
 - [ ] Landing page não está bloqueando em caso de não pagamento #bug
+- [ ] Vídeo apresentação aura ~1min
 
 
 ## Next Up
