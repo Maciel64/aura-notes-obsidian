@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "755d82f9e80bc744",
+        "id": "83e2c4bb68447e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "08b43594dffcb659",
+            "id": "f90ea3de31335287",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Kanban/Kanban Aura.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-trello",
+              "title": "Kanban Aura"
             }
           }
         ]
@@ -196,11 +204,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "08b43594dffcb659",
+  "active": "f90ea3de31335287",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Kanban/Notas/Criar postagem para 03 07 maciel.md",
     "Kanban/Kanban Aura.md",
-    "Criar postagem para 03 07 maciel.md",
+    "conflict-files-obsidian-git.md",
     "Chamada para atenção(4).png",
     "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
     "Organização do instagran.md",
