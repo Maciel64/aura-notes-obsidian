@@ -15,14 +15,13 @@ kanban-plugin: board
 
 ## Next Up
 
-- [ ] Funcionalidade de acesso por link mágico #maciel
 
 
 ## Fazendo
 
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
-- [ ] Atualizar Tema do Site #maciel
 - [ ] [[Criar postagem para 06 07 - Abigail]]
+- [ ] Funcionalidade de acesso por link mágico #maciel
 
 
 ## Impedimento
@@ -33,6 +32,7 @@ kanban-plugin: board
 
 - [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
+- [ ] Atualizar Tema do Site #maciel
 - [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]
 - [ ] [[Criar um TikTok para a Aura]] #abigail
