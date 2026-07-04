@@ -39,34 +39,6 @@
             "id": "d8ccc2c5e4d5d598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organização do instagran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Organização do instagran"
-            }
-          },
-          {
-            "id": "36bc0ebba55d4ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideias de posts/Ideias de posts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideias de posts"
-            }
-          },
-          {
-            "id": "caf512051131f24a",
-            "type": "leaf",
-            "state": {
               "type": "kanban",
               "state": {
                 "file": "Kanban/Kanban Aura.md",
@@ -86,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,17 +233,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ad61aa168115ce9",
+  "active": "d8ccc2c5e4d5d598",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Kanban/Notas/Criar um TikTok para a Aura.md",
-    "Kanban/Notas/Criar postagem para 29 06.md",
     "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
-    "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
+    "Ideias de tamplates pra artes/Sem título.md",
+    "Pasted image 20260703200151.png",
+    "Ideias de tamplates pra artes/Pasted image 20260703195948.png",
     "Pasted image 20260701191200.png",
-    "Kanban/Notas",
+    "Ideias de tamplates pra artes/Pasted image 20260703195521.png",
+    "Ideias de tamplates pra artes/Pasted image 20260703195402.png",
+    "Pasted image 20260626175220.png",
+    "Post para instagram feliz aniversário elegante em preto e dourado.png",
+    "Ideias de tamplates pra artes",
+    "Organização do instagran.md",
     "Criar postagem para 03 07 maciel.md",
+    "A Identidade Visual do Perfil.md",
     "Chamada para atenção.png",
+    "Kanban/Kanban Aura.md",
+    "Ideias de posts/Ideias de posts.md",
+    "conflict-files-obsidian-git.md",
+    "Kanban/Notas/Criar postagem para 29 06.md",
+    "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
+    "Kanban/Notas",
     "Posts/Calendário de Postagens.md",
     "Posts/Junho/Quanto dinheiro você perdeu hoje.md",
     "Posts/Junho/Quanto custa a desorganização.md",
@@ -281,19 +265,12 @@
     "Posts/Junho/Bastidores.md",
     "Posts/Junho/Autoridade.md",
     "Posts/Junho/Antes e Depois.md",
-    "Post para instagram feliz aniversário elegante em preto e dourado.png",
-    "Pasted image 20260626175220.png",
-    "Organização do instagran.md",
-    "A Identidade Visual do Perfil.md",
     "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
     "Posts/Junho/Conversão.md",
     "Posts/Junho/Dica rápida.md",
     "Posts/Junho/O erro que trava o crescimento de pequenos negócios.md",
     "Posts/Aura quem somos nós.png",
     "Ideias de posts/Rascunhos.md",
-    "Ideias de posts/Ideias executadas.md",
-    "Ideias de posts/Ideias de posts.md",
-    "Kanban/Kanban Aura.md",
     "Kanban",
     "Ideisas postadas",
     "Ideias de posts",
