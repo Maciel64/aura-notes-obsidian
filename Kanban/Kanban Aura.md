@@ -27,11 +27,11 @@ kanban-plugin: board
 
 ## Impedimento
 
-- [ ] [[Criar postagem para 03 07 maciel]]
 
 
 ## Feito
 
+- [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
 - [ ] Criar calendário de postagens
 - [ ] [[Criar postagem para 29 06]]
