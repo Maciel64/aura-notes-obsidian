@@ -9,6 +9,10 @@ kanban-plugin: board
 - [ ] Logo do cliente não fica definida no favicon #melhoria
 - [ ] Landing page não está bloqueando em caso de não pagamento #bug
 - [ ] Vídeo apresentação aura ~1min
+- [ ] Fazer cotação com freelancer
+- [ ] Texto de prospecção para os pioneiros
+- [ ] Criar arte para captação dos pioneiros
+- [ ] Trazer estrategia sobre trafego pago
 
 
 ## Next Up
