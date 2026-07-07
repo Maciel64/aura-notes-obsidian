@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Backlog
@@ -22,7 +24,6 @@ kanban-plugin: board
 ## Fazendo
 
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
-- [ ] [[Criar postagem para 06 07 - Abigail]]
 - [ ] Funcionalidade de acesso por link mágico #maciel
 
 
@@ -32,6 +33,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] [[Criar postagem para 06 07 - Abigail]]
 - [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
 - [ ] Atualizar Tema do Site #maciel
