@@ -19,6 +19,7 @@ kanban-plugin: board
 
 ## Next Up
 
+- [ ] Criar mensagem de prospecção para salões pioneiros #lucas
 
 
 ## Fazendo
@@ -26,7 +27,7 @@ kanban-plugin: board
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
 - [ ] Funcionalidade de acesso por link mágico #maciel
 - [ ] Fazer postagem 08/07  #lucas
-- [ ] Fazer postagem 10/07 #maciel
+- [ ] Fazer postagem 10/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
 
 
 ## Impedimento
