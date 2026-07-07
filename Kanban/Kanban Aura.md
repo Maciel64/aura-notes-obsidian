@@ -25,8 +25,8 @@ kanban-plugin: board
 
 - [ ] Estratégia de atração para 20 studios exclusivos #lucas
 - [ ] Funcionalidade de acesso por link mágico #maciel
-- [ ] Fazer postagem 08/07
-- [ ] Fazer postagem 10/07
+- [ ] Fazer postagem 08/07  #lucas
+- [ ] Fazer postagem 10/07 #maciel
 
 
 ## Impedimento
