@@ -24,7 +24,6 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] Estratégia de atração para 20 studios exclusivos #lucas
 - [ ] Funcionalidade de acesso por link mágico #maciel
 - [ ] Fazer postagem 08/07  #lucas
 - [ ] Fazer postagem 10/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
@@ -36,6 +35,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Estratégia de atração para 20 studios exclusivos #lucas
 - [ ] [[Criar postagem para 06 07 - Abigail]]
 - [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
