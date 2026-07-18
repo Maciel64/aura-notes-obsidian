@@ -1,71 +1,41 @@
 {
   "main": {
-    "id": "1113fc8ee6d7abc1",
+    "id": "21607e18620e9acf",
     "type": "split",
     "children": [
       {
-        "id": "2e3fc9e55fb56a29",
+        "id": "3507e0735cbe47ee",
         "type": "tabs",
         "children": [
           {
-            "id": "64df650287ba2302",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
-            }
-          },
-          {
-            "id": "ce65c571d9889e72",
+            "id": "ba5221ecee947db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização do instagran.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organização do instagran"
-            }
-          },
-          {
-            "id": "eb343710e626928c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kanban/Notas/Criar postagem para 03 07 maciel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criar postagem para 03 07 maciel"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1f5eb3655aa79126",
+    "id": "8194ffa3245b5b23",
     "type": "split",
     "children": [
       {
-        "id": "f7b09568e18de672",
+        "id": "e15730d45009b711",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3ab47f850a0fa6",
+            "id": "7f16a94f8c7631ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,12 +48,12 @@
             }
           },
           {
-            "id": "08312f26df46b981",
+            "id": "1da5512c9d0209f7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "29",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +65,7 @@
             }
           },
           {
-            "id": "4c645975115e79b0",
+            "id": "d6959e877925aef0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "fc98cdde365c5837",
+    "id": "e476ec5c7c286a79",
     "type": "split",
     "children": [
       {
-        "id": "00e6e8e0d8032bd8",
+        "id": "8d20d7c2f6410442",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9795b6b1e92f1f",
+            "id": "9635f6d0dd0449f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mensagens de Prospecção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Mensagens de Prospecção"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "8321917083908931",
+            "id": "14d48016333c5535",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mensagens de Prospecção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Mensagens de Prospecção"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "b7b7b143cab0836b",
+            "id": "65c8e4baa8b7cdfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +135,7 @@
             }
           },
           {
-            "id": "961eaf6c3775d248",
+            "id": "cdb83baff7295ad1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,22 +149,21 @@
             }
           },
           {
-            "id": "989163c7e4b3f8b7",
+            "id": "7b61f91eaffa5236",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mensagens de Prospecção.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Mensagens de Prospecção"
+              "title": "Sumário"
             }
           },
           {
-            "id": "8ad61aa168115ce9",
+            "id": "ec3a1b63921a85fa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -210,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,51 +193,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eb343710e626928c",
+  "active": "ec3a1b63921a85fa",
   "lastOpenFiles": [
-    "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
-    "Kanban/Notas/Criar postagem para 03 07 maciel.md",
-    "Kanban/Kanban Aura.md",
-    "Chamada para atenção(4).png",
-    "Kanban/Notas/Criar um TikTok para a Aura.md",
-    "Kanban/Notas/Criar postagem para 29 06.md",
-    "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
-    "Posts/Junho/16.06.2026_Landing Page.md",
-    "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
-    "A Identidade Visual do Perfil.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20260701191200.png",
-    "Pasted image 20260626175220.png",
-    "Posts/Calendário de Postagens.md",
-    "Criar postagem para 03 07 maciel.md",
-    "Novo Documento de Texto.txt",
-    "Organização do instagran.md",
-    "Posts/Aura quem somos nós.png",
-    "Kanban/Notas",
-    "Kanban",
-    "Chamada para atenção.png",
-    "Sem título.md",
-    "Sem título.canvas",
-    "Ideias de posts/Ideias de posts.md",
-    "Sem título",
-    "Aura quem somos nós.png",
-    "Prospecção/Profissionais.md",
-    "Prospecção/Clínicas.md",
-    "Prospecção",
-    "Post para instagram feliz aniversário elegante em preto e dourado.png",
-    "Negócios/TAM, SAM, SOM.md",
-    "Negócios",
-    "Ideias de posts/Ideias executadas.md",
-    "Ideias de posts/Rascunhos.md",
-    "Ideias de posts",
-    "Leads/Pessoas que não responderam.md",
-    "Mensagens de Prospecção.md",
     "Leads/Pessoas que responderam.md",
-    "Posts/Junho/Antes e Depois.md",
-    "Excalidraw/Drawing 2026-06-20 18.40.07.excalidraw.md",
-    "Pasta de teste/Teste.md",
-    "Pasta de teste",
-    "Excalidraw",
-    "Posts/Junho"
+    "Leads/Pessoas que não responderam.md"
   ]
 }
