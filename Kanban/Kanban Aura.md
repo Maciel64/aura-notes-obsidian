@@ -35,7 +35,7 @@ kanban-plugin: board
 
 ## Feito
 
-- [ ] Estratégia de atração para 20 studios exclusivos #lucas
+- [ ] [[Estratégia de atração para 20 studios exclusivos lucas]]
 - [ ] [[Criar postagem para 06 07 - Abigail]]
 - [ ] [[Criar postagem para 03 07 maciel]]
 - [ ] Atualizar Logo do Site
