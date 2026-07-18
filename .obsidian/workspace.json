@@ -4,32 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "83e2c4bb68447e1f",
+        "id": "2e3fc9e55fb56a29",
         "type": "tabs",
         "children": [
           {
-            "id": "f90ea3de31335287",
+            "id": "64df650287ba2302",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "Kanban/Kanban Aura.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Aura"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
+            }
+          },
+          {
+            "id": "ce65c571d9889e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização do instagran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Organização do instagran"
+            }
+          },
+          {
+            "id": "eb343710e626928c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban/Notas/Criar postagem para 03 07 maciel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criar postagem para 03 07 maciel"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#maciel",
+                "query": "29",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,47 +226,51 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f90ea3de31335287",
+  "active": "eb343710e626928c",
   "lastOpenFiles": [
+    "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
     "Kanban/Notas/Criar postagem para 03 07 maciel.md",
     "Kanban/Kanban Aura.md",
-    "conflict-files-obsidian-git.md",
     "Chamada para atenção(4).png",
-    "Kanban/Notas/Criar postagem para 06 07 - Abigail.md",
-    "Organização do instagran.md",
-    "Pasted image 20260626175220.png",
-    "Kanban/Notas/Criar postagem para 29 06.md",
     "Kanban/Notas/Criar um TikTok para a Aura.md",
-    "Posts/Calendário de Postagens.md",
-    "Pasted image 20260701191200.png",
-    "A Identidade Visual do Perfil.md",
-    "Estratégia de atração para 20 studios exclusivos maciel.md",
-    "Chamada para atenção.png",
-    "Kanban/Notas",
-    "Kanban/Funcionalidade de acesso por link mágico lucas.md",
-    "Kanban",
-    "Posts/Aura quem somos nós.png",
-    "Post para instagram feliz aniversário elegante em preto e dourado.png",
-    "A fazeres.md",
+    "Kanban/Notas/Criar postagem para 29 06.md",
     "Posts/Junho/3 sinais de que sua gestão está desorganizada.md",
-    "Leads/Pessoas que responderam.md",
-    "Ideias de posts/Rascunhos.md",
-    "Ideias de posts/Ideias executadas.md",
+    "Posts/Junho/16.06.2026_Landing Page.md",
+    "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
+    "A Identidade Visual do Perfil.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20260701191200.png",
+    "Pasted image 20260626175220.png",
+    "Posts/Calendário de Postagens.md",
+    "Criar postagem para 03 07 maciel.md",
+    "Novo Documento de Texto.txt",
+    "Organização do instagran.md",
+    "Posts/Aura quem somos nós.png",
+    "Kanban/Notas",
+    "Kanban",
+    "Chamada para atenção.png",
+    "Sem título.md",
+    "Sem título.canvas",
     "Ideias de posts/Ideias de posts.md",
-    "Ideias de posts",
-    "Leads/Pessoas que não responderam.md",
+    "Sem título",
+    "Aura quem somos nós.png",
     "Prospecção/Profissionais.md",
     "Prospecção/Clínicas.md",
     "Prospecção",
-    "Posts/Junho/16.06.2026_Landing Page.md",
-    "Posts/Junho/04.06.2025_A GESTÃO QUE VOCÊ SEMPRE SONHOU.md",
+    "Post para instagram feliz aniversário elegante em preto e dourado.png",
     "Negócios/TAM, SAM, SOM.md",
     "Negócios",
-    "Posts/Junho/Dica rápida.md",
-    "Posts/Junho/Conversão.md",
-    "Posts/Junho",
-    "Posts",
+    "Ideias de posts/Ideias executadas.md",
+    "Ideias de posts/Rascunhos.md",
+    "Ideias de posts",
+    "Leads/Pessoas que não responderam.md",
+    "Mensagens de Prospecção.md",
+    "Leads/Pessoas que responderam.md",
+    "Posts/Junho/Antes e Depois.md",
+    "Excalidraw/Drawing 2026-06-20 18.40.07.excalidraw.md",
+    "Pasta de teste/Teste.md",
+    "Pasta de teste",
     "Excalidraw",
-    "Leads"
+    "Posts/Junho"
   ]
 }
