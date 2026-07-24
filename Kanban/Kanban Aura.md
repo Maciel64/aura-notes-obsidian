@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] Melhorar SEO do Site
 - [ ] Logo do cliente não fica definida no favicon #melhoria
 - [ ] Landing page não está bloqueando em caso de não pagamento #bug
-- [ ] Vídeo apresentação aura ~1min
 - [ ] Fazer cotação com freelancer
 - [ ] Texto de prospecção para os pioneiros
 - [ ] Criar arte para captação dos pioneiros
@@ -20,13 +19,14 @@ kanban-plugin: board
 ## Next Up
 
 - [ ] Criar mensagem de prospecção para salões pioneiros #lucas
+- [ ] Gravar / Editar vídeo apresentando funcionalidade de Landing Page #maciel
+- [ ] Criar conta de demo para enviar na propspecção com link mágico #lucas
+- [ ] Vídeo apresentação aura ~1min #abigail
 
 
 ## Fazendo
 
-- [ ] Funcionalidade de acesso por link mágico #maciel
-- [ ] Fazer postagem 08/07  #lucas
-- [ ] Fazer postagem 10/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
+- [ ] Fazer postagem 24/07  #lucas
 
 
 ## Impedimento
@@ -35,6 +35,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Fazer postagem 20/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
+- [ ] Funcionalidade de acesso por link mágico #maciel
 - [ ] [[Estratégia de atração para 20 studios exclusivos lucas]]
 - [ ] [[Criar postagem para 06 07 - Abigail]]
 - [ ] [[Criar postagem para 03 07 maciel]]

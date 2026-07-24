@@ -64,4 +64,11 @@ ___
 Oi! Tudo bem? ![😊](https://static.cdninstagram.com/images/emoji.php/v9/t7f/1/16/1f60a.png) Vi seu trabalho e achei que a Aura pode fazer sentido para vocẽ. Somos uma plataforma de agendamentos e gestão que vai desde uma agenda simples até o seu total controle financeiro. Você pode criar uma conta de testes gratuita em [https://aurasistema.com.br](https://aurasistema.com.br/) Posso te mostrar rapidinho como funciona?
 
 ---
-Olá Maria tudo bem? 
+
+Olá! [Nome]
+
+Somos a Aura, uma plataforma de gestão completa para profissionais da estética.
+
+Estamos selecionando 20 profissionais para participar do nosso programa de parceiros de desenvolvimento. As vagas são limitadas e os participantes terão acesso a condições exclusivas.
+
+Acesse a aura nesse link de demonstração, sem necessidade de cadastro e confira como a Aura pode te ajudar a melhorar a organização do seu negócio: aurasistema.com.br/magic-link
