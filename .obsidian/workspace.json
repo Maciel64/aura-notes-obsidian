@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3507e0735cbe47ee",
+        "id": "9dfee34018496d81",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5221ecee947db1",
+            "id": "6c2bbd5071d60725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Nova aba"
             }
           }
         ]
@@ -193,9 +189,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec3a1b63921a85fa",
+  "active": "6c2bbd5071d60725",
   "lastOpenFiles": [
+    "Kanban/Kanban Aura.md",
+    "Prospecção/Profissionais.md",
     "conflict-files-obsidian-git.md",
+    "Ideias de posts/Rascunhos.md",
+    "Leads/Lista de Leads pioneiros.md",
+    "Ideias de posts/Post para instagram feliz aniversário elegante em preto e dourado.png",
+    "Ideias de posts/Pasted image 20260703200151.png",
+    "Ideias de posts/Pasted image 20260701191200.png",
+    "Ideias de posts/Pasted image 20260626175220.png",
+    "Ideias de posts/Organização do instagran.md",
+    "Ideias de posts/Chamada para atenção.png",
+    "Ideias de posts/Chamada para atenção(4).png",
+    "Ideias de posts/A Identidade Visual do Perfil.md",
+    "Leads/Lista de Leads peoneiros.md",
+    "Ideias de posts/Ideias executadas.md",
+    "Ideias de posts/Ideias de posts.md",
+    "Ideias de tamplates pra artes/Pasted image 20260703195402.png",
+    "Ideias de tamplates pra artes/Pasted image 20260703195948.png",
+    "Ideias de tamplates pra artes/Pasted image 20260703195521.png",
+    "A Identidade Visual do Perfil.md",
+    "Post para instagram feliz aniversário elegante em preto e dourado.png",
+    "Kanban/Notas/Estratégia de atração para 20 studios exclusivos lucas.md",
     "Leads/Pessoas que responderam.md",
     "Leads/Pessoas que não responderam.md"
   ]
