@@ -65,6 +65,6 @@ Responda dúvidas reais:
 | 1      | 5 sinais de que sua agenda precisa de organização  ✅ | Tour pela Aura                             | Você sabe quanto faturou este mês? c                                         |
 | 2      | Equipe da Aura ✅                                     | Como reduzir noshow de clientes<br>(08/07) | Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07) ✅ |
 | 3      | Planilha x Plataforma (13/07) ✅                      | Controle de caixa na Aura                  | História de um profissional que ganhou produtividade                         |
-| 4      | Como organizar uma agenda lotada                     | Funcionalidade: relatórios                 | Teste gratuito da Aura<br>                                                   |
+| 4      | Como organizar uma agenda lotada                     | Funcionalidade: relatórios (07/08)         | Teste gratuito da Aura<br>                                                   |
 | 5      | Funcionalidade: confirmação automática               | Os maiores erros na gestão de uma clínica  |                                                                              |
 

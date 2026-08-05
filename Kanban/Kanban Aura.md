@@ -20,13 +20,13 @@ kanban-plugin: board
 
 - [ ] Criar mensagem de prospecção para salões pioneiros #lucas
 - [ ] Gravar / Editar vídeo apresentando funcionalidade de Landing Page #maciel
-- [ ] Criar conta de demo para enviar na propspecção com link mágico #lucas
 - [ ] Vídeo apresentação aura ~1min #abigail
+- [ ] Arte para o dia 07/08 #maciel
+- [ ] Falar com o Lead Fotógrafo para uso da plataforma. #lucas
 
 
 ## Fazendo
 
-- [ ] Fazer postagem 24/07  #lucas
 
 
 ## Impedimento
@@ -35,6 +35,8 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Criar conta de demo para enviar na propspecção com link mágico #lucas
+- [ ] Fazer postagem 24/07  #lucas
 - [ ] Fazer postagem 20/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
 - [ ] Funcionalidade de acesso por link mágico #maciel
 - [ ] [[Estratégia de atração para 20 studios exclusivos lucas]]
