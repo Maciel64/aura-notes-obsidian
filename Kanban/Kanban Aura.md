@@ -21,12 +21,12 @@ kanban-plugin: board
 - [ ] Criar mensagem de prospecção para salões pioneiros #lucas
 - [ ] Gravar / Editar vídeo apresentando funcionalidade de Landing Page #maciel
 - [ ] Vídeo apresentação aura ~1min #abigail
-- [ ] Arte para o dia 07/08 #maciel
 - [ ] Falar com o Lead Fotógrafo para uso da plataforma. #lucas
 
 
 ## Fazendo
 
+- [ ] Arte para o dia 07/08 #maciel
 
 
 ## Impedimento
