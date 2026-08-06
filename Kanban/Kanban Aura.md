@@ -18,7 +18,6 @@ kanban-plugin: board
 
 ## Next Up
 
-- [ ] Criar mensagem de prospecção para salões pioneiros #lucas
 - [ ] Gravar / Editar vídeo apresentando funcionalidade de Landing Page #maciel
 - [ ] Vídeo apresentação aura ~1min #abigail
 - [ ] Falar com o Lead Fotógrafo para uso da plataforma. #lucas
@@ -35,6 +34,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Criar mensagem de prospecção para salões pioneiros #lucas
 - [ ] Criar conta de demo para enviar na propspecção com link mágico #lucas
 - [ ] Fazer postagem 24/07  #lucas
 - [ ] Fazer postagem 20/07 #maciel Convite para Pioneiros (Primeiros salões a acessarem a plataforma) (10/07)
